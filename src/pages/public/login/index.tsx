@@ -47,7 +47,7 @@ export function LoginPage() {
     <main className="h-screen grid grid-cols-1 md:grid-cols-3">
       <div
         className="hidden md:block md:col-span-2 bg-cover bg-center"
-        style={{ backgroundImage: "url('/src/assets/img-estoque.jpg')" }}
+        style={{ backgroundImage: "url('/img-estoque.jpg')" }}
       />
 
       <div className="flex  justify-center p-6 bg-card text-card-foreground">
